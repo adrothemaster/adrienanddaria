@@ -6,5 +6,6 @@ public class newOne3 {
         boolean t = true;
         double m = 2.03;
         System.out.println(i+m);
+        System.out.println(t);
     }
 }
